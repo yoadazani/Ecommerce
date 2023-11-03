@@ -1,0 +1,37 @@
+[
+  {
+    "categoryID": "1",
+    "image": "https://img.ltwebstatic.com/images3_pi/2020/03/18/1584498656bbac4a0af0f9d22137b6d6acc1387448_thumbnail_405x552.webp",
+    "categoryName": "MAN"
+  },
+  {
+    "categoryID": "2",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/10/13/1665625951501d6490f253e3e6996486336fa5a12b_thumbnail_405x552.webp",
+    "categoryName": "WOMAN"
+  },
+  {
+    "categoryID": "3",
+    "image": "https://img.ltwebstatic.com/images3_pi/2021/09/16/1631770132e576f1916471227b671f708ffe2faf0b_thumbnail_900x.webp",
+    "categoryName": "KIDS"
+  },
+  {
+    "categoryID": "4",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/11/18/1668742697a668c1dd6182005db0a607ad9d29b794_thumbnail_900x.webp",
+    "categoryName": "BABY'S"
+  },
+  {
+    "categoryID": "5",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/07/14/16577835501f94d1b9e2469984be8b16259797aec0_thumbnail_900x.webp",
+    "categoryName": "LARGE SIZES"
+  },
+  {
+    "categoryID": "6",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/07/26/1658818220ebb2b2ce7d91082987a911d36c399481_thumbnail_900x.webp",
+    "categoryName": "SHOOS"
+  },
+  {
+    "categoryID": "7",
+    "image": "https://img.ltwebstatic.com/images3_pi/2022/12/02/1669948984df717b2afacf231d28d541571231165d_thumbnail_900x.webp",
+    "categoryName": "BEAUTY"
+  }
+]

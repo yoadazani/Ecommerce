@@ -1,0 +1,492 @@
+[
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "1",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "7",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "8",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 5,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "9",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 5,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "10",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 3,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "11",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 5,
+    "rating": 1,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/15/16632532061ecb0459dd43abd2503951cf2b63d553_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "2",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.00,
+    "amount": 5,
+    "rating": 5,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "white",
+      "teal"
+    ],
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/10/19/16661634745d99b7ef5110f554ed1e41fe4d1c1a0f_thumbnail_900x.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "3",
+    "productName": "Dandelion Print Drop Shoulder Sweatshirt",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.00,
+    "amount": 5,
+    "rating": 5,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "lightblue",
+      "teal",
+      "pink",
+      "brown"
+    ],
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/10/15/1665763244d3c49412b6c8f128ba2411d393d86d69_thumbnail_900x.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "4",
+    "productName": "Solid Thermal Lined Sweatshirt",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 29.00,
+    "amount": 0,
+    "rating": 3,
+    "inStock": false,
+    "colors": [
+      "black",
+      "red",
+      "blue",
+      "green"
+    ],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "lycra",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/11/01/1667287212a336aab19b1940ef6cc7d76e6a6409b3_thumbnail_900x.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "5",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 69.90,
+    "amount": 0,
+    "rating": 5,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "regular fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/07/166254378591358beb009e33e1f9cdf754630fa9e9_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "16",
+    "productName": "Plain Halter Push Up Bikini Swimsuit",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 69.90,
+    "amount": 5,
+    "rating": 2,
+    "inStock": true,
+    "isFav": false,
+    "colors": [],
+    "sizes": [],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "regular fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/07/166254378591358beb009e33e1f9cdf754630fa9e9_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "6",
+    "productName": "Hollow Out Detail Kimono",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "black",
+      "skyblue",
+      "grey"
+    ],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/05/23/16532696012e39ba9d6ce2d081204a2dfb0f471162_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "1",
+    "productID": "17",
+    "productName": "Hollow Out Detail Kimono",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "black",
+      "skyblue",
+      "grey"
+    ],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "man"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/05/23/16532696012e39ba9d6ce2d081204a2dfb0f471162_thumbnail_405x552.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "18",
+    "productName": "Hollow Out Detail Kimono",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/10/25/1666675423725ff2ac578c2f505ca12a40f13dac6d_thumbnail_900x.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "19",
+    "productName": "Allover Heart Print Drop Shoulder Sweatshirt",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 39.90,
+    "amount": 0,
+    "rating": 4,
+    "inStock": false,
+    "colors": [
+      "black",
+      "red",
+      "pink",
+      "green"
+    ],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2023/01/28/16748827074c9e2fe9e0846b8c39347fa3d2ef1ab1_thumbnail_900x.webp",
+    "quantity": 0
+  },
+  {
+    "userId": 123,
+    "categoryID": "2",
+    "productID": "20",
+    "productName": "EMERY ROSE Waffle Knit Drop Shoulder Pullover",
+    "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+    "price": 49.90,
+    "amount": 5,
+    "rating": 4,
+    "inStock": true,
+    "isFav": false,
+    "colors": [
+      "black",
+      "green",
+      "pink",
+      "brown",
+      "navy"
+    ],
+    "sizes": [
+      "xs",
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xxl"
+    ],
+    "itemSpecifics": {
+      "type": "shirt",
+      "material": "cotton",
+      "other-material": "polyester",
+      "style": "slim fit",
+      "department": "woman"
+    },
+    "picture": "https://img.ltwebstatic.com/images3_pi/2022/09/30/1664501136cb4b23c5c6aea620b92c5eea7ba868c7_thumbnail_900x.webp",
+    "quantity": 0
+  }
+]

@@ -1,0 +1,1139 @@
+{
+  "admin": {
+    "id": 124,
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "createdAt": "2022-09-15T08:00:00.000Z",
+    "updatedAt": "2022-09-15T08:00:00.000Z"
+  },
+  "users": [
+    {
+      "id": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "provider": "gmail",
+      "userName": "yoad",
+      "email": "yoad208@gmail.com",
+      "phone": "0549108919",
+      "password": "208389403",
+      "role": "user",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "address": []
+    },
+    {
+      "id": "7b64def9-4559-4a6a-8d72-28d7bfb4b5d7",
+      "provider": "google",
+      "userName": "Yoad Azani",
+      "email": "yoad208.ebay@gmail.com",
+      "phone": "",
+      "password": "12345678",
+      "role": "user",
+      "createdAt": "2023-05-31T17:08:13.817Z",
+      "updatedAt": "2023-05-31T17:08:13.817Z",
+      "address": []
+    }
+  ],
+  "mainImages": [
+    {
+      "id": "1",
+      "image": "https://img.ltwebstatic.com/images3_ach/2023/02/06/1675648013ac4af522d52a9238152663e83294d677.gif"
+    },
+    {
+      "id": "2",
+      "image": "https://img.ltwebstatic.com/images3_ach/2023/01/22/16743793966b5367e293c9ef1031d3f140beb9b3d4_thumbnail_1920x.webp"
+    },
+    {
+      "id": "3",
+      "image": "https://img.ltwebstatic.com/images3_ach/2023/01/18/167402981790e2d111b8b254eb7dbf11666d1f1871_thumbnail_1920x.webp"
+    },
+    {
+      "id": "4",
+      "image": "https://img.ltwebstatic.com/images3_ach/2022/12/27/16721318533fc04c6a2586d4f7ef83ef027e088b22_thumbnail_1920x.webp"
+    }
+  ],
+  "categories": [
+    {
+      "categoryID": "1",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/03/18/1584498656bbac4a0af0f9d22137b6d6acc1387448_thumbnail_405x552.webp",
+      "categoryName": "MAN"
+    },
+    {
+      "categoryID": "2",
+      "image": "https://img.ltwebstatic.com/images3_pi/2022/10/13/1665625951501d6490f253e3e6996486336fa5a12b_thumbnail_405x552.webp",
+      "categoryName": "WOMAN"
+    },
+    {
+      "categoryID": "3",
+      "image": "https://img.ltwebstatic.com/images3_pi/2021/09/16/1631770132e576f1916471227b671f708ffe2faf0b_thumbnail_900x.webp",
+      "categoryName": "KIDS"
+    },
+    {
+      "categoryID": "4",
+      "image": "https://img.ltwebstatic.com/images3_pi/2022/11/18/1668742697a668c1dd6182005db0a607ad9d29b794_thumbnail_900x.webp",
+      "categoryName": "BABY'S"
+    },
+    {
+      "categoryID": "5",
+      "image": "https://img.ltwebstatic.com/images3_pi/2022/07/14/16577835501f94d1b9e2469984be8b16259797aec0_thumbnail_900x.webp",
+      "categoryName": "LARGE SIZES"
+    },
+    {
+      "categoryID": "6",
+      "image": "https://img.ltwebstatic.com/images3_pi/2022/07/26/1658818220ebb2b2ce7d91082987a911d36c399481_thumbnail_900x.webp",
+      "categoryName": "SHOOS"
+    },
+    {
+      "categoryID": "7",
+      "image": "https://img.ltwebstatic.com/images3_pi/2022/12/02/1669948984df717b2afacf231d28d541571231165d_thumbnail_900x.webp",
+      "categoryName": "BEAUTY"
+    }
+  ],
+  "products": [
+    {
+      "categoryID": "1",
+      "id": "1",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 9,
+      "reviews": [
+        {
+          "id": "0f3ee637-e2e5-402b-9eb7-93bc1f62a6ef",
+          "productId": "1",
+          "color": "white",
+          "size": "xs",
+          "rating": 5,
+          "comment": "I love this product",
+          "createdAt": "2023-10-04T16:18:48.414Z",
+          "updatedAt": "2023-10-04T16:18:48.414Z"
+        }
+      ],
+      "rating": 5,
+      "likesAmount": 3,
+      "salesAmount": 1,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/02/06/1675676232125982d2084798dd21d64db05664fca5.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/06/1675676233a9c73d07cba2de9eeaaaeb4312013e0a.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/1672909893f97e9ea5259272a128b3641125d65571.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/26/1672021173d04449e49d4b57e4f5d837b6f86bc5c1.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/06/1675676234fd6349825bd7de88c546f23e5ad77e6b.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/06/1675676234fd6349825bd7de88c546f23e5ad77e6b.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/06/1675676233a9c73d07cba2de9eeaaaeb4312013e0a.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "7",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 7,
+      "reviews": [
+        {
+          "id": "cd65c42b-72dc-44eb-910f-4650df056d54",
+          "productId": "7",
+          "color": "white",
+          "size": "xs",
+          "rating": 5,
+          "comment": "perfect product",
+          "createdAt": "2023-10-04T16:17:37.145Z",
+          "updatedAt": "2023-10-04T16:17:37.145Z"
+        }
+      ],
+      "rating": 5,
+      "likesAmount": 2,
+      "salesAmount": 3,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/06/10/168640201480708e8416d3bceff73bc67ae4a2f591.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/08/1683541441e6dc6d46fa67bad91f3ac6d55c9b8137.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/08/16835414438e3949d59e04fd906f72e2f1e8510c7b.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/08/168354144695a5401b2088bfb0c6d820f379760f43.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/08/168354144695a5401b2088bfb0c6d820f379760f43.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "8",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 9,
+      "reviews": [
+        {
+          "id": "cea1376d-4a27-4729-ba84-88689dc7a69f",
+          "userId": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+          "productId": "8",
+          "name": "yoad",
+          "color": "white",
+          "size": "xs",
+          "rating": 4,
+          "comment": "fast delivery",
+          "createdAt": "2023-10-04T16:19:46.132Z",
+          "updatedAt": "2023-10-04T16:19:46.132Z"
+        }
+      ],
+      "rating": 4,
+      "likesAmount": 0,
+      "salesAmount": 1,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2022/12/30/1672395330bf29d31f051063b8878297671d5d794d.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/30/167239533167da15125f77672ede3919ec6a9976ef.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/19/1671437852a0b5ffa1fde48ee24d626411306423be.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/19/16714378513f164083b9351ec40b79fa350f3030ab.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/30/1672395330bf29d31f051063b8878297671d5d794d.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/30/1672395330bf29d31f051063b8878297671d5d794d.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/30/167239533167da15125f77672ede3919ec6a9976ef.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "9",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/1680072970b87ccef1148af5ab4028b5d7d7bff0d5.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800729711b5841ed0248335a42757dabb8f95502.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800729744524946f32fa8941923215c1216cdada.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/1680072976280fa810b19f4a7bfc9bfcbefec4485d.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800729788e9aee176d5a463eb97e08d6ee3b2900.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/168007298055e5b46f354b506ea07fac3a7773e295.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/168007298055e5b46f354b506ea07fac3a7773e295.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/29/16800729711b5841ed0248335a42757dabb8f95502.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "10",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/02/24/1677213689e3a975727147f16e171c237a49f6c360.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/1673918771bd49c1e02ea66f4796cfe49b2f946332.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/1673918778dca5c2013a53ba35d6c2dc3dc435e369.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/16739187741f7e14a38979fefcf4acadcc8846bd58.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/16739187670b1a975c4231d01554b5b085f2f1dda3.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/1673918764421eb4604f3a74b012b7615b21e3d366.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/1673918764421eb4604f3a74b012b7615b21e3d366.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/17/1673918771bd49c1e02ea66f4796cfe49b2f946332.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "11",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/167636218543d6b674e4417a9416461ef0da870f8e.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/16763621872b5e1a13405067b0e6e773f2c746674e.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/1676362189ccaa233b0645ac132c64b2744c0e7d81.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/16763621920accc91dcbb1576184d907c302bb292f.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/16763621920accc91dcbb1576184d907c302bb292f.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/14/16763621872b5e1a13405067b0e6e773f2c746674e.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "2",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white",
+        "teal"
+      ],
+      "sizes": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/1677636585ad167b8200a99c582a6772a170ea6bc1.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/04/06/1649213850ad95e6814eed4f2198d1ba4d327b8e12.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/16776365871e5c81beb75436c108356b1d61b8cfbe.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/167763658953977dbdce2b8584593652941f02d88a.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/167763659074b707f4d19e9f188a11b5452f6ae913.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/16776365871e5c81beb75436c108356b1d61b8cfbe.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/01/16776365871e5c81beb75436c108356b1d61b8cfbe.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/04/06/1649213850ad95e6814eed4f2198d1ba4d327b8e12.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "3",
+      "createdAt": "2023-06-26T07:46:28.066Z",
+      "updatedAt": "2023-06-26T07:46:28.066Z",
+      "productName": "Dandelion Print Drop Shoulder Sweatshirt",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "lightblue",
+        "teal",
+        "pink",
+        "brown"
+      ],
+      "sizes": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/161732926346a2120626928977950e931d7ece3feb.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329265f6c964e63c3ccd313badf3dfaed19fc2.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329268ff42ff65470656a4a93c9118f924c138.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/16173292708da3e8cdc121e2b395ff57fb5f1b40ce.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329274e090f276af699b64d3b1b22d8cd0c140.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329277095822a912669cbcdd947f39eb7893db.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329277095822a912669cbcdd947f39eb7893db.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329277095822a912669cbcdd947f39eb7893db.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/04/02/1617329265f6c964e63c3ccd313badf3dfaed19fc2.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "4",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Solid Thermal Lined Sweatshirt",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 29,
+      "amount": 0,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": false,
+      "colors": [
+        "black",
+        "red",
+        "blue",
+        "green"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/06/14/1686714715afe068a6d8193bd836b78cdfaeff82b7.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/14/1686714718257070780af362e62c0bb8b5c3d443a8.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/14/16867147237e63a16c1cabc6c371719b9b4ac95082.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/14/16867147237e63a16c1cabc6c371719b9b4ac95082.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/14/1686714718257070780af362e62c0bb8b5c3d443a8.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "5",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 69.9,
+      "amount": 0,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/03/27/1679919454d9352b13572fcb502e9f7d5514a086b8.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/27/167991946086036f825a9c7751f0bea587ebaf0cfa.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669877794c273ffc3f03cd1dc6a8532459b629a4e.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669877794c273ffc3f03cd1dc6a8532459b629a4e.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/27/167991946086036f825a9c7751f0bea587ebaf0cfa.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "16",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Plain Halter Push Up Bikini Swimsuit",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 69.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "white"
+      ],
+      "sizes": [],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/05/29/1685350916e2a95288c9ea8f99d6abe5a311e42dff.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/1681278742e648b90270cd2ecc260e8537ad5a0f91.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/1681278744ec0df99f32a97a44644e3b689933ecac.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/168127874838c6d4954fcd349f2fa68f3eb6e38420.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/1681278751f1510f165612c9d441d4665393a328f9.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/16812788508f8e2d79fe1402232362070ec8b07b47.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/29/16853509187e52e557e1d36edb8c37538644939a66.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/29/168535092089937be177d8627515dc918dea4b09f8.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/29/168535092089937be177d8627515dc918dea4b09f8.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/04/12/1681278742e648b90270cd2ecc260e8537ad5a0f91.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "6",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Hollow Out Detail Kimono",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "black",
+        "skyblue",
+        "grey"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/1684933575acb40fe5d0f6e163a0140420aeb6d52b.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/168493357740650afe5ea5d601999efe7ae036320c.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/1684933579dc273d79fb0c2cc3a3d26705a72de30f.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/16849335826a2b7bdfb6a5e5013e100d2f3b181137.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/1684933584672412eba780358786bdb0424df9d180.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/16849335863f6160d083202d76dfe936b2e3825b00.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/1684933589cf6d4b8855d34c110358a806beb2e3bf.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/1684933589cf6d4b8855d34c110358a806beb2e3bf.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/05/24/168493357740650afe5ea5d601999efe7ae036320c.webp"
+      ]
+    },
+    {
+      "categoryID": "1",
+      "id": "17",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Hollow Out Detail Kimono",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "black",
+        "skyblue",
+        "grey"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "man"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/16802430922da232057bad2aa67e94191a9f714440.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/16802430963d5a620caa1fc9f53456f3bc8c817242.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/16802430997f217055db45d8f3055abefa31bbfbaa.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/1680243103266efbd70db006ad7ba9eac292543c47.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/1680243108932eb9a3809c9fca2445d62d3f5394bf.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/1680243108932eb9a3809c9fca2445d62d3f5394bf.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/1680243108932eb9a3809c9fca2445d62d3f5394bf.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/31/16802430963d5a620caa1fc9f53456f3bc8c817242.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "18",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Hollow Out Detail Kimono",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "s",
+        "m",
+        "l",
+        "xl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/1672882265e747e748682277db7f3fa9e781946699.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/1672882256bd784a96bb783144b358196d1cb40ac6.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/16728822614e9e0fbc8724f622260982b834420298.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/16728822535a5f9a2ef6bdebf6aaed520273283217.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/167288227063b6b200dcd26b5f340cd5dfa667e694.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/167288227063b6b200dcd26b5f340cd5dfa667e694.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/05/1672882256bd784a96bb783144b358196d1cb40ac6.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "19",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "Allover Heart Print Drop Shoulder Sweatshirt",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 39.9,
+      "amount": 0,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": false,
+      "colors": [
+        "black",
+        "red",
+        "pink",
+        "green"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029223876c3f3715ba49be698647b3f199eee3.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029225180271704af2ccd3b2a67bf1042b77ef.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029227f8d3c5f8307b88131005130eda78ae08.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029229aa5aa770e6c26ef122e78b2973a8315a.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029229aa5aa770e6c26ef122e78b2973a8315a.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/06/1686029225180271704af2ccd3b2a67bf1042b77ef.webp"
+      ]
+    },
+    {
+      "categoryID": "2",
+      "id": "20",
+      "createdAt": "2023-05-31T16:20:56.183Z",
+      "updatedAt": "2023-05-31T16:20:56.183Z",
+      "productName": "EMERY ROSE Waffle Knit Drop Shoulder Pullover",
+      "description": "Hire Expert Product Description Writers\nA product description has the ability to make or break a sale. You've put in a lot of hard work developing great products or services; make sure you don't lose business because of poorly written product descriptions. Complement your quality products with amazing product descriptions to have customers lining up out the door to try your products! Our talented online copywriting professionals have the expertise and experience necessary to write product descriptions for you that will boost sales.",
+      "price": 49.9,
+      "amount": 5,
+      "reviews": [],
+      "rating": 0,
+      "likesAmount": 0,
+      "salesAmount": 0,
+      "inStock": true,
+      "colors": [
+        "black",
+        "green",
+        "pink",
+        "brown",
+        "navy"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "itemSpecifics": [
+        {
+          "key": "type",
+          "value": "shirt"
+        },
+        {
+          "key": "material",
+          "value": "cotton"
+        },
+        {
+          "key": "other-material",
+          "value": "polyester"
+        },
+        {
+          "key": "style",
+          "value": "slim fit"
+        },
+        {
+          "key": "department",
+          "value": "woman"
+        }
+      ],
+      "picture": [
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/16859556796ea3427ea726a095bca7f3aa66ad9157.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/16859556809fd21219d144783a21dbcc292da50238.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/168595568216b6e2b0e2a9b8737314f5262c0639b9.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/1685955683a6e4b90f818aea9068b2be25ac239c52.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/16859556844219e15711b8f6070235eb7c500d6dff.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/06/05/1685955685fe0a83c96c318414cbc5b6c779e9043b.webp"
+      ]
+    }
+  ],
+  "wishList": [
+    {
+      "id": "2415c704-11e1-43e7-ac05-1110bf6f372c",
+      "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "productID": "7",
+      "color": "white",
+      "size": "xs"
+    },
+    {
+      "id": "595422ff-b5e3-45a6-9d77-f02e6ab6b044",
+      "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "productID": "1",
+      "color": "white",
+      "size": "xs"
+    }
+  ],
+  "shoppingCart": [
+    {
+      "id": "0cb877e4-777d-4867-b9cf-6f9e75c045b7",
+      "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "productID": "1",
+      "color": "white",
+      "size": "xs",
+      "quantity": 1,
+      "isChecked": true
+    },
+    {
+      "id": "5c199178-a5e4-4b75-a16b-f33e1a2122c1",
+      "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "productID": "7",
+      "color": "white",
+      "size": "xs",
+      "quantity": 3,
+      "isChecked": true
+    },
+    {
+      "id": "57ad56c0-42b9-4dbe-922f-bf44203f41ed",
+      "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "productID": "8",
+      "color": "white",
+      "size": "xs",
+      "quantity": 1,
+      "isChecked": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ffd1d351-5a2a-4b0c-b572-5a09fe78b463",
+      "status": "delivered",
+      "userId": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+      "payer": {
+        "name": "Yoad Azani",
+        "email": "sb-t3tck16209598@personal.example.com"
+      },
+      "address": {
+        "id": "4b4297e4-d253-4dfd-a426-5f9d64b14f33",
+        "userId": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+        "city": "תל-אביב",
+        "addressLine": "ישראליס 5 דירה 4",
+        "zipCode": "61014",
+        "country": "IL",
+        "createdAt": "2023-10-04T16:17:07.872Z",
+        "updatedAt": "2023-10-04T16:17:07.872Z"
+      },
+      "amount": {
+        "totalPrice": "199.50",
+        "currency": "USD"
+      },
+      "createdAt": "2023-10-04T16:16:23Z",
+      "updatedAt": "2023-10-04T16:17:04Z",
+      "products": [
+        {
+          "id": "0cb877e4-777d-4867-b9cf-6f9e75c045b7",
+          "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+          "productID": "1",
+          "color": "white",
+          "size": "xs",
+          "quantity": 1,
+          "isChecked": true
+        },
+        {
+          "id": "5c199178-a5e4-4b75-a16b-f33e1a2122c1",
+          "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+          "productID": "7",
+          "color": "white",
+          "size": "xs",
+          "quantity": 3,
+          "isChecked": true
+        },
+        {
+          "id": "57ad56c0-42b9-4dbe-922f-bf44203f41ed",
+          "userID": "4ed379f0-f406-493c-aaed-e9c7ad45ee84",
+          "productID": "8",
+          "color": "white",
+          "size": "xs",
+          "quantity": 1,
+          "isChecked": true
+        }
+      ]
+    }
+  ]
+}
